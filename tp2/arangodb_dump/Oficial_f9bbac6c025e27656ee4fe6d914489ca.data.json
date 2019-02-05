@@ -1,0 +1,3 @@
+{"type":2300,"data":{"FechaIngreso":"2018-06-23 00:00:00","NroDocumento":9,"NroPlaca":1,"Sumarios":[{"Descripcion":"","Fecha":"2018-09-03 00:00:00","Resultado":"","idSumario":5}],"TipoDocumento":1,"_id":"Oficial/177573","_key":"177573","_rev":"_XzUSveS--_"}}
+{"type":2300,"data":{"FechaIngreso":"2018-06-23 00:00:00","NroDocumento":11,"NroPlaca":2,"Sumarios":[],"TipoDocumento":1,"_id":"Oficial/177577","_key":"177577","_rev":"_XzUSveS--B"}}
+{"type":2300,"data":{"FechaIngreso":"2018-06-23 00:00:00","NroDocumento":9,"NroPlaca":1,"Sumarios":[{"Descripcion":"No se preveen acciones adicionales respecto a este sumario.","Fecha":"2018-09-03 00:00:00","Resultado":"Sumario completo","idSumario":5}],"TipoDocumento":1,"_id":"Oficial/177573","_key":"177573","_rev":"_X0GTfBq--_"}}
